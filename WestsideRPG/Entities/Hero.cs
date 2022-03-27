@@ -1,6 +1,6 @@
 ﻿namespace WestsideRPG.Entities
 {
-    class Hero
+    public abstract class Hero
     {
         public string Name { get; set; }
         public int Level { get; set; }

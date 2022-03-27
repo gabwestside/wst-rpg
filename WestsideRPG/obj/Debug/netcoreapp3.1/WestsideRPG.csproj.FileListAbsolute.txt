@@ -1,0 +1,5 @@
+C:\Users\Gabriel\Documents\GitClones\WestsideRPG\WestsideRPG\obj\Debug\netcoreapp3.1\WestsideRPG.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\GitClones\WestsideRPG\WestsideRPG\obj\Debug\netcoreapp3.1\WestsideRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitClones\WestsideRPG\WestsideRPG\obj\Debug\netcoreapp3.1\WestsideRPG.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitClones\WestsideRPG\WestsideRPG\obj\Debug\netcoreapp3.1\WestsideRPG.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitClones\WestsideRPG\WestsideRPG\obj\Debug\netcoreapp3.1\WestsideRPG.csproj.CoreCompileInputs.cache
